@@ -1,0 +1,6 @@
+{
+  "name": "InverTrack AI - Gestor de Cartera y Boletos",
+  "description": "Tracker inteligente y simple para carteras de inversión. Escanea y anota boletos de compra y venta en PDF, fotos, CSV o texto con IA y calcula tu rendimiento en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
